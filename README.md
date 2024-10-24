@@ -7,9 +7,9 @@
 
 - I am currently learning **C#, Node.JS, C++, and JS**
 
-- I currently own/develop for **Metro**
+- Working on my site.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me thru discord: @k4xc </h3>
 <p align="left">
 </p>
 
